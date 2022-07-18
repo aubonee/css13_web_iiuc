@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+.heading{
+   width: 100%;
+   text-align: center;
+   
+    
+    
+}
+.heading h4{
+    margin:50px auto auto auto;
+    font-size: 40px;
+    word-spacing: 5px ;
+      text-transform: capitalize;
+    text-decoration: overline underline; 
+}
+
+.box1{
+    margin: 50px 200px auto 200px;
+    background-color: rgb(255, 207, 215);
+    padding: 25px 20px 25px 20px;
+    text-align: center;
+   
+}
+.box1 p{
+    text-decoration: line-through;
+}
+
+.box2{
+   
+    background-color: rgb(249, 249, 249);
+    font-size: 20px;
+    padding: 20px ;
+}
+.box2 p{
+    text-decoration: none;
+    
+}
